@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                 = "test_framework"
-  spec.version              = "0.0.2"
+  spec.version              = "0.0.3"
   spec.summary              = "SDK for Yandex Pay."
   spec.homepage             = "generic-homepage"
   spec.license              = { type: "Proprietary", text: "2020 © Yandex. All rights reserved." }
